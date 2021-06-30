@@ -1,2 +1,5 @@
 Hola, soy Leo Licona y aprendo programación a mis 30 años! 
 Estoy aprendiendo bastante y me emociona mucho! 
+
+Mi meta es ser un full stack developer y aprender tecnologias como 
+nodejs, react, vue, angular, entre otras.
