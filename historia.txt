@@ -3,3 +3,5 @@ Estoy aprendiendo bastante y me emociona mucho!
 
 Mi meta es ser un full stack developer y aprender tecnologias como 
 nodejs, react, vue, angular, entre otras.
+
+Estudio la ingenieria en UVM Online! 
