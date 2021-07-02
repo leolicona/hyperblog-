@@ -50,3 +50,24 @@ body
     background: white;
     padding: 1em;
 }
+
+footer
+{
+    height: 300px;
+
+}
+
+#upFooter 
+{
+    margin-top: 400 px;
+    height: 30%;
+    background-color: cornsilk;
+
+}
+
+#downFooter 
+{
+    height: 70%;
+    background-color: rgb(36, 36, 36);
+
+}
